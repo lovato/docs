@@ -9,7 +9,7 @@ Chapter 1 - Basics
 ************************************************************
 
 Concepts to understand
-----------------------------
+----------------------
 
 - Pip & http://pypi.python.org
 - Line prompt coding, bpython and ipython
