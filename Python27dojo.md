@@ -1,4 +1,4 @@
-# Python 2.7.x Quick Course
+# Python 2.7.x Dojo
 
 Build a small system (two software pieces) that will show on a browser the most 5 recent videos from YouTube, and by doing this, learn all through the Python basic concepts.
 
