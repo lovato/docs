@@ -13,6 +13,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Running a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
 - Code in UTF-8 ... ALWAYS!
+- Python is not Java ... forget getters and setters (http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/)
 
 ## Chapter 2 - Hands on - part I
 
