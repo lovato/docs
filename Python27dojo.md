@@ -18,7 +18,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### To do
 
 - Use Flask
-- Debugging on browser
+- Debugging on browser (yep, your code needs to fail)
 - "/show" must be the entry point
 - Must output any string, like a "hello world"
 
