@@ -30,13 +30,15 @@
 
 ## Reference code for Decorators
 
+    # -*- coding: utf-8 -*-
     def reals(func):
         def reals_func(value):
-            return 'R$ ' + value
+            return 'R$ ' + func(value)
         return reals_func
     
     @reals
     def money_me(string):
-        return 'Cost is ' + string
+        return str(string) + ',00'
     
-    print money_me('10')
+    print money_me(10)
+
