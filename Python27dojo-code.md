@@ -12,6 +12,14 @@
     if __name__ == '__main__':
         app.run()
 
+## Reference code for Requests
+
+    import requests
+    url = 'https://gdata.youtube.com/feeds/api/videos?q=a&max-results=5&v=2&alt=jsonc&orderby=published'
+    r = requests.get(url)
+    if r.status_code == 200:
+        print r.text
+
 ## Reference code for Decorators
 
     def reals(func):
