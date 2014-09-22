@@ -2,6 +2,7 @@
 
 ## Reference code for Flask Hello World
 
+    # -*- coding: utf-8 -*-
     from flask import Flask
     app = Flask(__name__)
     
@@ -14,6 +15,7 @@
 
 ## Reference code for Requests
 
+    # -*- coding: utf-8 -*-
     import requests
     url = 'https://gdata.youtube.com/feeds/api/videos?q=a&max-results=5&v=2&alt=jsonc&orderby=published'
     r = requests.get(url)
