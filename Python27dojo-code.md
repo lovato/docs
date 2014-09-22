@@ -20,7 +20,13 @@
     url = 'https://gdata.youtube.com/feeds/api/videos?q=a&max-results=5&v=2&alt=jsonc&orderby=published'
     r = requests.get(url)
     if r.status_code == 200:
-        print r.text
+        print 'jsondata = ' + str(r.json())
+
+## Reference code for Load Json Data
+
+    # -*- coding: utf-8 -*-
+    exec(open('/tmp/json.py').read())
+    print jsondata
 
 ## Reference code for Decorators
 
