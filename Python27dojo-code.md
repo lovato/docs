@@ -21,6 +21,6 @@
     
     @reals
     def money_me(string):
-        return 'Cost is' + string
+        return 'Cost is ' + string
     
     print money_me('10')
