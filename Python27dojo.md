@@ -11,7 +11,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Indentation is everything
 - Code using vim
 - Running a Python 2.7 script
-- virtualenv
+- Virtualenv, Virtualenv, and ... Virtualenv
 
 ## Chapter 2 - Hands on - part I
 
