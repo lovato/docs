@@ -10,6 +10,7 @@ Build a small system (two software pieces) that will show on a browser the most 
   - Pip used to upgrade itself?
   - Pip install libs or software? Or both?
   - What is the difference between a lib and a software?
+
 - Line prompt coding, bpython, ipython, dreampie, and so on...
 
 ![Python](images/cmdpython.png) 
@@ -26,6 +27,7 @@ Build a small system (two software pieces) that will show on a browser the most 
   - Installing
   - Activating
   - Automation?
+
 - Code in UTF-8 ... ALWAYS!
 
 ## Chapter 2 - Hands on - part I
