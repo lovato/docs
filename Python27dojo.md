@@ -86,7 +86,9 @@ Build a small system (two software pieces) that will show on a browser the most 
 
 - How can I pack my software?
 - Egg Package structure
-- The awesome Machete tool
+- Code Generators
+  - The awesome Machete tool
+  - CookieCutter
 
 ### To do
 
