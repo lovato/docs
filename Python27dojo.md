@@ -27,7 +27,6 @@ Build a small system (two software pieces) that will show on a browser the most 
   - Activating
   - Automation?
 - Code in UTF-8 ... ALWAYS!
-  - "# -*- encoding: utf-8 -*-"
 
 ## Chapter 2 - Hands on - part I
 
