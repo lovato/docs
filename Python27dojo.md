@@ -113,4 +113,5 @@ Build a small system (two software pieces) that will show on a browser the most 
 
 ## Chapter 9 - To space and beyond
 
+- GAE
 - http://www.rafekettler.com/magicmethods.pdf
