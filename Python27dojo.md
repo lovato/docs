@@ -7,9 +7,12 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### Concepts to understand
 
 - Pip & http://pypi.python.org
-- Line prompt coding, bpython and ipython
+- Line prompt coding, bpython, ipython, dreampie, and so on...
+
+![Python](images/cmdpython.jpg) 
+
 - Indentation is everything
-- Code using vim
+- Use vi and be like a boss
 - Running a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
 - Code in UTF-8 ... ALWAYS!
