@@ -22,11 +22,11 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Use vi and code like a boss
 - How to run a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
-
-![Virtualenv](images/virtualenv.jpg) 
   - Installing
   - Activating
   - Automation?
+
+![Virtualenv](images/virtualenv.jpg) 
 
 - Code in UTF-8 ... ALWAYS!
 
