@@ -18,7 +18,8 @@ Build a small system (two software pieces) that will show on a browser the most 
 ![bPython](images/cmdbpython.png) 
 ![DreamPie](images/cmddreampie.png) 
 
-- Indentation is everything
+- Indentation is everything. Use 4 spaces
+- Maximum line length is 80 characters
 - Code in UTF-8 ... ALWAYS!
 - Use vi and code like a boss
 - How to run a Python 2.7 script
@@ -37,6 +38,7 @@ Build a small system (two software pieces) that will show on a browser the most 
   - Dictionaries
 
 - Importing modules
+- someVar is Java... some_var is Python
 
 ## Chapter 2 - Hands on - part I
 
