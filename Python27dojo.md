@@ -7,8 +7,9 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### Concepts to understand
 
 - Pip & http://pypi.python.org
-  - Pip used to install itself?
-  - Pip install libs or software?
+  - Pip used to upgrade itself?
+  - Pip install libs or software? Or both?
+  - What is the difference between a lib and a software?
 - Line prompt coding, bpython, ipython, dreampie, and so on...
 
 ![Python](images/cmdpython.png) 
@@ -17,13 +18,17 @@ Build a small system (two software pieces) that will show on a browser the most 
 ![DreamPie](images/cmddreampie.png) 
 
 - Indentation is everything
-- Use vi and be like a boss
-- Running a Python 2.7 script
+- Use vi and code like a boss
+- How to run a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
 
 ![Virtualenv](images/virtualenv.jpg) 
-
+  - Installing
+  - Activating
+  - Automation?
 - Code in UTF-8 ... ALWAYS!
+
+    # -*- encoding: utf-8 -*-
 
 ## Chapter 2 - Hands on - part I
 
