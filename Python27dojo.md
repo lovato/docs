@@ -18,8 +18,10 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Use vi and be like a boss
 - Running a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
+
+![Virtualenv](images/virtualenv.jpg) 
+
 - Code in UTF-8 ... ALWAYS!
-- Python is not Java ... forget getters and setters (http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/)
 
 ## Chapter 2 - Hands on - part I
 
@@ -88,6 +90,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Upload my software to Pypi
 - Boilerplates & Bootstrap (shortcuts)
 - flask-bootstrap
+- Python is not Java ... forget getters and setters (http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/)
 
 ## Chapter 9 - To space and beyond
 
