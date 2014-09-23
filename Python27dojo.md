@@ -10,6 +10,9 @@ Build a small system (two software pieces) that will show on a browser the most 
 - Line prompt coding, bpython, ipython, dreampie, and so on...
 
 ![Python](images/cmdpython.png) 
+![iPython](images/cmdipython.png) 
+![bPython](images/cmdbpython.png) 
+![DreamPie](images/cmddreampie.png) 
 
 - Indentation is everything
 - Use vi and be like a boss
