@@ -19,6 +19,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 ![DreamPie](images/cmddreampie.png) 
 
 - Indentation is everything
+- Code in UTF-8 ... ALWAYS!
 - Use vi and code like a boss
 - How to run a Python 2.7 script
 - Virtualenv, Virtualenv, and ... Virtualenv
@@ -28,7 +29,14 @@ Build a small system (two software pieces) that will show on a browser the most 
 
 ![Virtualenv](images/virtualenv.jpg) 
 
-- Code in UTF-8 ... ALWAYS!
+- Data Types
+  - Integers
+  - Strings
+  - Lists
+  - Tuples
+  - Dictionaries
+
+- Importing modules
 
 ## Chapter 2 - Hands on - part I
 
