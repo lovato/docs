@@ -7,6 +7,8 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### Concepts to understand
 
 - Pip & http://pypi.python.org
+  - Pip used to install itself?
+  - Pip install libs or software?
 - Line prompt coding, bpython, ipython, dreampie, and so on...
 
 ![Python](images/cmdpython.png) 
