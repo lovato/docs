@@ -44,6 +44,7 @@ Build a small system (two software pieces) that will show on a browser the most 
 
 ### To do
 
+- Create and enter into your virtualenv. Call it `env`.
 - Use Flask
 - "/show" must be the entry point
 - Must output any string, like a "hello world"
@@ -55,19 +56,23 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### To do
 
 - Create a SEPARATE .py file
-- Use Python Requests
+- Use Python Requests (you can use the same virtualenv as before)
 - FEED: https://gdata.youtube.com/feeds/api/videos?q=a&max-results=5&v=2&alt=jsonc&orderby=published
 - Must download and persist the json data on /tmp
+- Remember: persist a valid json already serialize. Raw data and raw string will not work.
 - Run it on console
 
 ## Chapter 4 - Hands on - part III
 
 ### To do
 
-- Use Jinja2 (for templates)
-- "/show" must be the entry point
-- Must read the json data on /tmp
-- Must list on the browser the 5 videos, including thumb and metadata
+- Extend the same software created for chapter 2.
+- Use Jinja2 (for templates, its included already by Flask, dont need to install anything)
+- You need to use method `render_template` from Flask
+- "/videos" must be the entry point
+- Must read the json data on /tmp, with exec or by loading its contents (then module json may be helpfull)
+- Remember: only pass to template the list of data to be displayed, not the full json object (in this case)
+- Must list on the browser the 5 videos, including thumb and a few metadata
 
 ## Chapter 5 - Is it clear to read?
 
