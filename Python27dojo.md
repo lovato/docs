@@ -45,18 +45,20 @@ Build a small system (two software pieces) that will show on a browser the most 
 ### To do
 
 - Use Flask
-- Debugging on browser (yep, your code needs to fail)
 - "/show" must be the entry point
 - Must output any string, like a "hello world"
+- Debugging on browser (yep, your code needs to fail)
+- Create a new route called "/fail" to return `str(1/0)`
 
 ## Chapter 3 - Hands on - part II
 
 ### To do
 
+- Create a SEPARATE .py file
 - Use Python Requests
 - FEED: https://gdata.youtube.com/feeds/api/videos?q=a&max-results=5&v=2&alt=jsonc&orderby=published
 - Must download and persist the json data on /tmp
-- System cron must be used
+- Run it on console
 
 ## Chapter 4 - Hands on - part III
 
